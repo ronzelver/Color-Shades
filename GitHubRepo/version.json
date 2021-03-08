@@ -1,24 +1,23 @@
 {
         "firmware": [
             {
-                "software": "v2.0.0",
+                "software": "v1.0.0",
                 "hardware": [
-                    "v2.0"
+                    "v1.0"
                 ]
             },
             {
-                "software": "v0.1.1",
+                "software": "v0.2.0",
                 "hardware": [
-                    "v1.3",
-                    "v1.2"
+                    "v0.3",
+                    "v0.2"
                 ]
             },
             {
                 "software": "v0.1.0",
                 "hardware": [
-                    "v1.3",
-                    "v1.2",
-                    "v1.1"
+                    "v0.3",
+                    "v0.2"
                 ]
             }
         ]
